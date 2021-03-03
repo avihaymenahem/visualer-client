@@ -1,0 +1,9 @@
+const actionTypes = {
+    SET_FETCHING: 'SET_FETCHING',
+    SET_TEST_RESULTS: 'SET_TEST_RESULTS',
+    SET_TEST_LIST: 'SET_TEST_LIST',
+    SET_SETTINGS: 'SET_SETTINGS',
+    SET_PAGE_TITLE: 'SET_PAGE_TITLE'
+};
+
+export default actionTypes;
